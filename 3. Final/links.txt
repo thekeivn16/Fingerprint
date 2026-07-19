@@ -1,0 +1,2 @@
+Drive: https://drive.google.com/drive/folders/1QojDkgsfgq3DBq9oED0Y4r9sH8Psu6zB?usp=sharing
+Kaggle Pretrain: https://www.kaggle.com/code/qadeptrai123/unet-pretrain
